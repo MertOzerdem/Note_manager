@@ -1,1 +1,1 @@
-# Note_manager
+NodeJS project for managing notes
